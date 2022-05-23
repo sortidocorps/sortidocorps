@@ -8,6 +8,14 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
+
+
+<p>
+  <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC1FyDvc6BG9ph4ExhTOCIDQ?style=social"> 
+</p>
+                                
+
+                                
 <!--
 <table>
   <thead align="center">
