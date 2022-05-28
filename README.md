@@ -43,6 +43,7 @@
 
 
 [For the badges use shields](https://shields.io/)
+
 [Find the good bagde code](https://simpleicons.org/)
                                 
 
@@ -58,15 +59,7 @@
       <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/sortidocorps/peek"><b>Peek : Nodejs website screenshot automation tool</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/NicolasBrondin/peek?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/NicolasBrondin/peek?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/NicolasBrondin/peek?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/NicolasBrondin/peek?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
+ 
 </table>
 
 
