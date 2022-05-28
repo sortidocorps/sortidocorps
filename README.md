@@ -3,16 +3,34 @@
 <h3>Various techs I use</h3>
 <p>
   
-  <img alt="vue" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=white" />  
-  <img alt="React-Native" src="https://img.shields.io/badge/-React--Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="vue" src="https://img.shields.io/badge/-Vue-4fc08d?logo=Vue.js&logoColor=white" />  
+  <img alt="React-Native" src="https://img.shields.io/badge/-React--Native-45b8d8?logo=react&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
+  <img alt="Nuxt" src="https://img.shields.io/badge/-NuxtJs-00DC82?logo=nuxt.js&logoColor=white" />
 </p>
+
+
+<h3>I want to use more</h3>
+
+<p>
+  
+  
+  
+ <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30" />
+ <img alt="vue" src="https://img.shields.io/badge/-Vue-4fc08d?logo=Vue.js&logoColor=white" />  
+  
+  
+  </p>
 
 
 <p>
   <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC1FyDvc6BG9ph4ExhTOCIDQ?style=social"> 
 </p>
+
+
+[For the badges use shields](https://shields.io/)
+[Find the good bagde code](https://simpleicons.org/)
                                 
 
                                 
