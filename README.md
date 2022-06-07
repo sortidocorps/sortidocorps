@@ -1,9 +1,14 @@
    
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=sortidocorps&show_icons=true&theme=tokyonight"/>
+  
+   
+  <img src="https://github-readme-stats.vercel.app/api?username=sortidocorps&show_icons=true&theme=tokyonight" />
+   
 </p>
 
 ### Hi there 👋
+
+<img hight="100" width="200" src="c50ee041bc3f38cdaa8b31784de3e054.gif" />
 
 <h3>Various techs I use</h3>
 <p>
@@ -54,18 +59,17 @@
 
                                 
 
-<p align="right" >  
-  
-
+ <p align="right" >  
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sortidocorps&langs_count=8&theme=tokyonight" />
- 
   </p>
   
-   <p align="center" > 
+ <p align="center" > 
   <img alt="counter" src="https://profile-counter.glitch.me/sortidocorps/count.svg" />
  </p> 
   
-       
+  <p align="center" > 
+    <img hight="50" width="100" alt="counter" src="superdbz-superdragonballz.gif" />
+ </p>   
 
 
 ### Link to pimp your github
