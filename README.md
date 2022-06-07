@@ -1,3 +1,8 @@
+   
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=sortidocorps&show_icons=true&theme=tokyonight"/>
+</p>
+
 ### Hi there 👋
 
 <h3>Various techs I use</h3>
@@ -40,6 +45,7 @@
   </p>
 
 
+<h3>Youtube badge</h3>
 <p>
   <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC1FyDvc6BG9ph4ExhTOCIDQ?style=social" /> 
 </p>
@@ -48,19 +54,18 @@
 
                                 
 
-<p align="center" >  
+<p align="right" >  
   
-<img  src="https://github-readme-stats.vercel.app/api?username=sortidocorps&show_icons=true&theme=tokyonight"/>
+
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sortidocorps&langs_count=8&theme=tokyonight" />
  
   </p>
   
-  <p align="center" >  
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sortidocorps&langs_count=8&theme=tokyonight" />
-   </p>
-  
-  <p align="center" >  
+   <p align="center" >  
   <img alt="counter" src="https://profile-counter.glitch.me/sortidocorps/count.svg" />
-        </p>          
+ </p> 
+  
+       
 
 
 ### Link to pimp your github
