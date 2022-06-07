@@ -53,7 +53,10 @@
   </a>
   </p>
   
-                                
+  
+  <p align="center" >  
+  ![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
+        </p>                         
 <!--
 <table>
   <thead align="center">
