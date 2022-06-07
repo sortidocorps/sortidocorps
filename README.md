@@ -17,7 +17,7 @@
   <img alt="java" src="https://img.shields.io/badge/-java-007396?logo=java&logoColor=white" />
   
   <img alt="go" src="https://img.shields.io/badge/-go-00ADD8?logo=go&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-angular-DD0031?logo=angular&logoColor=white" />
+  
   
   
   
@@ -46,12 +46,28 @@
 </p>
 
 
-<p align="center">
-  <img alt="toplangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sortidocorps&layout=compact&theme=tokyonight" />
-</p>
 
+                                
 
-<p align="center">
+<p align="center" >  
+  
+<img  src="https://github-readme-stats.vercel.app/api?username=sortidocorps&show_icons=true&theme=tokyonight"/>
+ 
+  </p>
+  
+  <p align="center" >  
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sortidocorps&langs_count=8&theme=tokyonight" />
+   </p>
+  
+  <p align="center" >  
   <img alt="counter" src="https://profile-counter.glitch.me/sortidocorps/count.svg" />
-</p>
+        </p>          
 
+
+### Link to pimp your github
+
+[For the badges use shields](https://shields.io/)
+
+[Find the good bagde code](https://simpleicons.org/)
+
+[Stats](https://github.com/anuraghazra/github-readme-stats)
