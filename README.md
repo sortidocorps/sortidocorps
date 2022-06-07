@@ -17,6 +17,9 @@
   <img alt="java" src="https://img.shields.io/badge/-java-007396?logo=java&logoColor=white" />
   
   <img alt="go" src="https://img.shields.io/badge/-go-00ADD8?logo=go&logoColor=white" />
+  <img alt="angular" src="https://img.shields.io/badge/-angular-DD0031?logo=angular&logoColor=white" />
+  
+  
   
   
 </p>
@@ -38,7 +41,8 @@
 
 
 <p>
-  <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC1FyDvc6BG9ph4ExhTOCIDQ?style=social"> 
+  <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC1FyDvc6BG9ph4ExhTOCIDQ?style=social" /> 
+  <img alt="GithubFollowers" src="https://img.shields.io/github/followers/sortidocorps?label=Follow" /> 
 </p>
 
 
