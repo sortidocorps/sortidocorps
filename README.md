@@ -46,3 +46,8 @@
 </p>
 
 
+<p align="center">
+  <img alt="toplangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sortidocorps&layout=compact&theme=tokyonight" />
+</p>
+
+
