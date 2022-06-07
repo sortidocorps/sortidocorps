@@ -49,9 +49,9 @@
                                 
 
 <p align="center" >  
-  <a href="https://github.com/sortidocorps/github-readme-stats"> 
+  
 <img  src="https://github-readme-stats.vercel.app/api?username=sortidocorps&show_icons=true&theme=tokyonight"/>
-  </a>
+ 
   </p>
   
   <p align="center" >  
