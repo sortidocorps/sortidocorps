@@ -55,7 +55,7 @@
   
   
   <p align="center" >  
-  ![Visitor Count](https://profile-counter.glitch.me/sortidocorps/count.svg)
+  <img alt="counter" src="https://profile-counter.glitch.me/sortidocorps/count.svg" />
         </p>                         
 <!--
 <table>
