@@ -45,6 +45,7 @@
 [For the badges use shields](https://shields.io/)
 
 [Find the good bagde code](https://simpleicons.org/)
+[Stats](https://github.com/anuraghazra/github-readme-stats)
                                 
 
 <p align="center" >  
@@ -53,6 +54,9 @@
   </a>
   </p>
   
+  <p align="center" >  
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sortidocorps&langs_count=8&theme=tokyonight" />
+   </p>
   
   <p align="center" >  
   <img alt="counter" src="https://profile-counter.glitch.me/sortidocorps/count.svg" />
