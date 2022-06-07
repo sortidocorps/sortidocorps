@@ -34,7 +34,7 @@
  <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30" />
  <img alt="React-Native" src="https://img.shields.io/badge/-React--Native-45b8d8?logo=react&logoColor=white" />
  <img alt="vue" src="https://img.shields.io/badge/-Vue-4fc08d?logo=Vue.js&logoColor=white" />  
-  <img alt="go" src="https://img.shields.io/badge/-go-00ADD8?logo=go&logoColor=white" />
+ <img alt="go" src="https://img.shields.io/badge/-go-00ADD8?logo=go&logoColor=white" />
   
   
   </p>
@@ -42,7 +42,6 @@
 
 <p>
   <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC1FyDvc6BG9ph4ExhTOCIDQ?style=social" /> 
-  <img alt="GithubFollowers" src="https://img.shields.io/github/followers/sortidocorps?label=Follow" /> 
 </p>
 
 
