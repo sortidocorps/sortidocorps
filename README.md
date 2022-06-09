@@ -79,3 +79,5 @@
 [Find the good bagde code](https://simpleicons.org/)
 
 [Stats](https://github.com/anuraghazra/github-readme-stats)
+
+[Video](https://youtu.be/NEemH60QoCE)
