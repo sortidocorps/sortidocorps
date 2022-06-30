@@ -44,7 +44,8 @@
  <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30" />
  <img alt="React-Native" src="https://img.shields.io/badge/-React--Native-45b8d8?logo=react&logoColor=white" />
  <img alt="vue" src="https://img.shields.io/badge/-Vue-4fc08d?logo=Vue.js&logoColor=white" />  
- <img alt="go" src="https://img.shields.io/badge/-go-00ADD8?logo=go&logoColor=white" />
+ <img alt="go" src="https://img.shields.io/badge/-go-00ADD8?logo=Go&logoColor=white" />
+ <img alt="go" src="https://img.shields.io/badge/-node.js-339933?logo=Node.js&logoColor=white" />
   
   
   </p>
